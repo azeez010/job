@@ -1,5 +1,5 @@
 # job-microservice
-This is an api for dev to practice there front end skills. so that it can be easy to use, i used json for data persistent below are the available endpoints and how to use it
+This is an api for dev to practice their front end skills. so that it can be easy to use, i used json for data persistent below are the available endpoints and how to use it
 * 1. post-job
 After cloning the project run npm start to start the server, to post jobs call a POST requests localhost:3000/post-job with a compulsory body like this
   {
